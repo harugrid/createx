@@ -39,4 +39,4 @@ createx/
 - **Footer** — контакты и социальные сети
 
 ## Запуск проекта
-Посмотреть проект можно здесь: [createx](https://harugrid.github.io/createx/)
+Посмотреть сайт можно здесь: [createx](https://harugrid.github.io/createx/)
